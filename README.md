@@ -4,9 +4,9 @@
 
 The **Hotel Management System** is a software application designed to manage hotel operations effectively and efficiently. The system allows both **administrators** and **users** to interact with the system for different purposes. The **administrator** can manage hotel data, while **users** can make hotel bookings and view their booking history.
 
-### Key Features:
+## Key Features
 
-**For Login/SingUp**
+**For Login/SingUp:**
 - **Admin Login**:
   - Admin Password: 123
 - **User Login/SingUp**
@@ -22,7 +22,7 @@ The **Hotel Management System** is a software application designed to manage hot
 - **Cancel Bookings:** Users can cancel their existing bookings.
 - **View Bookings:** Users can view their past and current bookings.
 
-### Technologies Used:
+## Technologies Used
 
 - **Java:** The core programming language for the system.
 - **JDBC:** Java Database Connectivity for interaction with the database.
